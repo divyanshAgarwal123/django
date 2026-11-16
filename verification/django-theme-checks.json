@@ -1,0 +1,286 @@
+{
+  "cases": [
+    {
+      "body": {
+        "background": "rgb(34, 34, 34)",
+        "color": "rgb(238, 238, 238)"
+      },
+      "heading": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(224, 224, 224)"
+      },
+      "help": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(208, 208, 208)"
+      },
+      "messages": [
+        {
+          "background": "rgb(78, 78, 78)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "debug"
+        },
+        {
+          "background": "rgb(38, 88, 149)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "info"
+        },
+        {
+          "background": "rgb(0, 107, 27)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "success"
+        },
+        {
+          "background": "rgb(88, 51, 5)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "warning"
+        },
+        {
+          "background": "rgb(87, 8, 8)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "error"
+        }
+      ],
+      "prefersDark": true,
+      "selected": {
+        "background": "rgb(0, 54, 58)",
+        "color": "rgb(238, 238, 238)"
+      },
+      "selectedLink": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(129, 212, 250)"
+      },
+      "theme": "auto"
+    },
+    {
+      "body": {
+        "background": "rgb(245, 245, 245)",
+        "color": "rgb(34, 34, 34)"
+      },
+      "heading": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(68, 68, 68)"
+      },
+      "help": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(102, 102, 102)"
+      },
+      "messages": [
+        {
+          "background": "rgb(239, 239, 239)",
+          "color": "rgb(34, 34, 34)",
+          "kind": "debug"
+        },
+        {
+          "background": "rgb(204, 239, 255)",
+          "color": "rgb(34, 34, 34)",
+          "kind": "info"
+        },
+        {
+          "background": "rgb(221, 255, 221)",
+          "color": "rgb(34, 34, 34)",
+          "kind": "success"
+        },
+        {
+          "background": "rgb(255, 255, 204)",
+          "color": "rgb(34, 34, 34)",
+          "kind": "warning"
+        },
+        {
+          "background": "rgb(255, 239, 239)",
+          "color": "rgb(34, 34, 34)",
+          "kind": "error"
+        }
+      ],
+      "prefersDark": true,
+      "selected": {
+        "background": "rgb(255, 255, 204)",
+        "color": "rgb(34, 34, 34)"
+      },
+      "selectedLink": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(65, 120, 147)"
+      },
+      "theme": "light"
+    },
+    {
+      "body": {
+        "background": "rgb(34, 34, 34)",
+        "color": "rgb(238, 238, 238)"
+      },
+      "heading": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(224, 224, 224)"
+      },
+      "help": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(208, 208, 208)"
+      },
+      "messages": [
+        {
+          "background": "rgb(78, 78, 78)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "debug"
+        },
+        {
+          "background": "rgb(38, 88, 149)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "info"
+        },
+        {
+          "background": "rgb(0, 107, 27)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "success"
+        },
+        {
+          "background": "rgb(88, 51, 5)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "warning"
+        },
+        {
+          "background": "rgb(87, 8, 8)",
+          "color": "rgb(238, 238, 238)",
+          "kind": "error"
+        }
+      ],
+      "prefersDark": true,
+      "selected": {
+        "background": "rgb(0, 54, 58)",
+        "color": "rgb(238, 238, 238)"
+      },
+      "selectedLink": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(129, 212, 250)"
+      },
+      "theme": "dark"
+    }
+  ],
+  "contrast": [
+    {
+      "theme": "auto",
+      "prefersDark": true,
+      "pairs": [
+        {
+          "name": "body",
+          "ratio": 13.71277933916805
+        },
+        {
+          "name": "secondary help",
+          "ratio": 10.31508137246262
+        },
+        {
+          "name": "secondary heading",
+          "ratio": 12.052255800718562
+        },
+        {
+          "name": "selected row link",
+          "ratio": 8.013299206755866
+        },
+        {
+          "name": "debug message",
+          "ratio": 7.171929089569638
+        },
+        {
+          "name": "info message",
+          "ratio": 6.214992939150558
+        },
+        {
+          "name": "success message",
+          "ratio": 5.803272516875556
+        },
+        {
+          "name": "warning message",
+          "ratio": 9.57328085109532
+        },
+        {
+          "name": "error message",
+          "ratio": 12.538979236793363
+        }
+      ]
+    },
+    {
+      "theme": "light",
+      "prefersDark": true,
+      "pairs": [
+        {
+          "name": "body",
+          "ratio": 14.59322338694774
+        },
+        {
+          "name": "secondary help",
+          "ratio": 5.266623784863582
+        },
+        {
+          "name": "secondary heading",
+          "ratio": 8.933674770245679
+        },
+        {
+          "name": "selected row link",
+          "ratio": 4.714860167164154
+        },
+        {
+          "name": "debug message",
+          "ratio": 13.83649242839641
+        },
+        {
+          "name": "info message",
+          "ratio": 13.150795098389489
+        },
+        {
+          "name": "success message",
+          "ratio": 14.714858232091224
+        },
+        {
+          "name": "warning message",
+          "ratio": 15.476571209969618
+        },
+        {
+          "name": "error message",
+          "ratio": 14.277316828314332
+        }
+      ]
+    },
+    {
+      "theme": "dark",
+      "prefersDark": true,
+      "pairs": [
+        {
+          "name": "body",
+          "ratio": 13.71277933916805
+        },
+        {
+          "name": "secondary help",
+          "ratio": 10.31508137246262
+        },
+        {
+          "name": "secondary heading",
+          "ratio": 12.052255800718562
+        },
+        {
+          "name": "selected row link",
+          "ratio": 8.013299206755866
+        },
+        {
+          "name": "debug message",
+          "ratio": 7.171929089569638
+        },
+        {
+          "name": "info message",
+          "ratio": 6.214992939150558
+        },
+        {
+          "name": "success message",
+          "ratio": 5.803272516875556
+        },
+        {
+          "name": "warning message",
+          "ratio": 9.57328085109532
+        },
+        {
+          "name": "error message",
+          "ratio": 12.538979236793363
+        }
+      ]
+    }
+  ],
+  "note": "Actual admin templates and styles with a synthetic user/context; browser prefers dark. No full backend or cross-browser test."
+}
